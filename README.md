@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Pedro-DRL
+- 👋 Hi, I’m @Pedro_Darlan__
 - 👀 I’m interested in learning
 - 🌱 I’m currently learning French and HTML/CSS
 - 💞️ I’m looking to collaborate on everyone
